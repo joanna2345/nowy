@@ -1,0 +1,12 @@
+@import "_var";
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: arial;
+    background: $tomato;
+}
+
+@import "_header";
